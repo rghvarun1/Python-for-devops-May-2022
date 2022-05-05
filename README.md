@@ -8,6 +8,12 @@ Create dev env that is cloud based:
 
 ## Build out python project scaffold
 Makefile
+requirements.txt
+test_library.py
+python_library
+DockerFile
+command-line-tool
+Microservice
 
 2. Colab notebook,
 https://colab.research.google.com/drive/1Svik60zjlJKkcX4rcMaQDDRdYRz9YbQr#scrollTo=edao1FoRKgoY
